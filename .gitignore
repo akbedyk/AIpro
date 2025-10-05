@@ -32,6 +32,7 @@ luac.out
 *.dylib
 
 # Executables
+*.bat
 *.exe
 *.out
 *.app
